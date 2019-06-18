@@ -1,6 +1,6 @@
 # དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/seramey/master/docs/img/01.PNG)
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/tashilhunpo/master/docs/img/01.PNG)
 
 <br>
 <br>
