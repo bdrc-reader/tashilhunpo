@@ -1,6 +1,7 @@
 <p align="center">
   <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/tashilhunpo/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/tashilhunpo/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/tashilhunpo/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/tashilhunpo/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/tashilhunpo/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/tashilhunpo/natsok">སྣ་ཚོགས།</a></p>
 
+
 # བཀྲ་ཤིས་ལྷུན་པོའི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/tashilhunpo/master/docs/img/02.PNG)
